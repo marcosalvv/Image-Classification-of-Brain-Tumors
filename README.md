@@ -1,4 +1,4 @@
-# Image-Classification-of-Brain-Tumors
+# Image Classification of Brain Tumors
 by Marco Salvatori, Simone Catenacci
 Final Project for "Patter Recognition e Machine Learning" (Università di Roma "Tor Vergata")
 1) Features Extraction with CNNs
