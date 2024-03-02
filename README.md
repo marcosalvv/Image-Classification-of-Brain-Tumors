@@ -7,3 +7,5 @@ Final Project for "Patter Recognition e Machine Learning" (Università di Roma "
 3) LDA classifier
 4) PLS-DA classifier
 5) Feed Forward Network classifier (with Hyperparemeter Tuning)
+
+For more information look into the powerpoint!
