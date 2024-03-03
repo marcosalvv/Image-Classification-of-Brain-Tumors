@@ -1,4 +1,4 @@
-#import matplotlib.pyplot as plt
+# Performs feature extraction of images through the use of VGG16 and EfficientNetV2L CNNs
 import numpy as np
 import tensorflow as tf
 import pathlib
