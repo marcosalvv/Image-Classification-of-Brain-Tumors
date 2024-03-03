@@ -1,5 +1,5 @@
 # Image Classification of Brain Tumors
-by Marco Salvatori, Simone Catenacci
+Authors: Marco Salvatori, Simone Catenacci
 
 Final Project for "Patter Recognition e Machine Learning" (Università di Roma "Tor Vergata")
 1) Features Extraction with CNNs
@@ -8,4 +8,4 @@ Final Project for "Patter Recognition e Machine Learning" (Università di Roma "
 4) PLS-DA classifier
 5) Feed Forward Network classifier (with Hyperparemeter Tuning)
 
-For more information look into the powerpoint!
+For more info look into the project presentation!
