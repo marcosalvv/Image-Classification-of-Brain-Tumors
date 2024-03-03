@@ -1,3 +1,4 @@
+# Search the best FFNET model with an hyperparameters tuning algorithm called Hyperband
 import numpy as np
 import keras
 import keras_tuner as kt
