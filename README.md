@@ -1,5 +1,5 @@
 # Image Classification of Brain Tumors
-Authors: Marco Salvatori, Simone Catenacci
+Authors: Marco Salvatori, Simone Catenacci, Simone Sorgonà
 
 Final Project for "Patter Recognition e Machine Learning" (Università di Roma "Tor Vergata")
 1) Features Extraction with CNNs
